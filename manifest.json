@@ -1,6 +1,6 @@
 {
-    "name": "排排狗工具箱",
-    "description": "选中文本后可在独立弹窗中排版",
-    "author": "ChenQi",
-    "version": "1.0.0"
+  "name": "Paipaigou Plugin",
+  "description": "Paipaigou extension",
+  "author": "Ctl",
+  "version": "1.0.0"
 }
