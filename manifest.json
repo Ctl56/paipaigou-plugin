@@ -3,6 +3,6 @@
   "display_name": "排排狗工具箱",
   "description": "选中文本后可在独立弹窗中排版",
   "author": "ttkx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js"
 }
