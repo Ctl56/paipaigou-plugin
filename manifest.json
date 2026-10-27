@@ -1,6 +1,7 @@
 {
-  "name": "Paipaigou Plugin",
+  "name": "paipaigou-plugin",
+  "display_name": "排排狗",
   "description": "Paipaigou extension",
-  "author": "Ctl",
+  "author": "ttkx",
   "version": "1.0.0"
 }
