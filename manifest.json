@@ -1,8 +1,7 @@
 {
   "name": "paipaigou-plugin",
-  "display_name": "排排狗工具箱",
-  "description": "选中文本后可在独立弹窗中排版",
+  "display_name": "排排狗",
+  "description": "排版工具",
   "author": "ttkx",
-  "version": "1.0.2",
-  "js": "index.js"
+  "version": "1.0.5"
 }
